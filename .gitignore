@@ -1,0 +1,8 @@
+venv
+research.txt
+input/data
+input/metadata
+input/preprocessed
+testing.py
+RNN.py
+__pycache__
